@@ -2,7 +2,7 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the invitation has already arrived. Both start with the [15-minute diagnostic](diagnostic.md) so you know your weak question types. Expect 30 to 60 minutes a day on the 7-day plan.
+Two plans: one for a week, one for when the invitation has already arrived. Both start with the [10-minute diagnostic](diagnostic.md) so you know your weak question types. Expect 30 to 60 minutes a day on the 7-day plan.
 
 Remember the clock on the test link: Wonderlic says links generally stay active for a maximum of 14 days. Check your invitation for the date and plan backwards from it.
 
@@ -11,7 +11,7 @@ Remember the clock on the test link: Wonderlic says links generally stay active 
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md). Note your two weakest question types and whether you ran out of time. |
-| 2 | Math | Read the [math guide](sections/math-word-problems.md) and do its 12 items without a calculator. Spend 10 extra minutes on percentages and fractions in your head. |
+| 2 | Math | Read the [math guide](sections/math-word-problems.md) and do its 5 items without a calculator. Spend 10 extra minutes on percentages and fractions in your head. |
 | 3 | Series and logic | Read the [series](sections/number-series.md) and [logic](sections/logic.md) guides. Do both sets. Learn the series rule table and the logic patterns table. |
 | 4 | Words | Read the [vocabulary](sections/vocabulary.md) and [analogies](sections/analogies.md) guides. Do both sets. Note every word you could not define. |
 | 5 | First timed run | Read the [spatial guide](sections/spatial-reasoning.md) and do its set. Then take a full timed test of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic). Read the [timing guide](timing.md). |
@@ -36,7 +36,7 @@ For when the link has arrived and you want to sit the test soon.
 
 | Block | Time | What to do |
 |---|---|---|
-| 1 | 15 min | Take the [diagnostic](diagnostic.md). |
+| 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the "How the questions look" and "Traps" parts of all six section guides. Skip the rest for now. |
 | 3 | 30 min | Do the practice items for your two weakest types. Read every explanation, including the ones you got right. |
 | 4 | 15 min | Take a full timed practice test of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic). |

@@ -64,100 +64,50 @@ As guidance: a two-statement item should take 10 to 15 seconds once you know the
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Wonderlic or any publisher's materials. For items with A, B and C only, choose A for true, B for false and C for not certain. A fair target is 12 items in 4 minutes.
+These 5 items are original, written for these notes. They are not taken from the Wonderlic or any publisher's materials. For items with A, B and C only, choose A for true, B for false and C for not certain. A fair target is 5 items in 1 minute 40 seconds.
 
-### Set 1
-
-For items 1 to 4, assume the first two statements are true. Is the third statement **A. true**, **B. false** or **C. not certain**?
+For items 1, 2 and 4, assume the first two statements are true. Is the third statement **A. true**, **B. false** or **C. not certain**?
 
 **Item 1.** All roses are flowers. Some flowers fade quickly. Some roses fade quickly.
 
-**Item 2.** All managers attend the Monday meeting. Priya is a manager. Priya attends the Monday meeting.
+**Item 2.** Tom is taller than Sam. Sam is taller than Lee. Lee is taller than Tom.
 
-**Item 3.** No cats are dogs. Rex is a dog. Rex is a cat.
-
-**Item 4.** Tom is taller than Sam. Sam is taller than Lee. Lee is taller than Tom.
-
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: C (not certain).** The flowers that fade quickly might all be tulips. Nothing links them to roses. *Why not A:* "some flowers" may or may not include any roses.
-
-**Item 2: A (true).** Every manager attends, and Priya is a manager, so she must attend.
-
-**Item 3: B (false).** No dog is a cat, and Rex is a dog, so Rex cannot be a cat. The conclusion clashes with the statements.
-
-**Item 4: B (false).** Tom is taller than Sam, who is taller than Lee, so Tom is taller than Lee. Lee cannot also be taller than Tom.
-
-</details>
-
-### Set 2
-
-For items 5 and 6, choose **A. true**, **B. false** or **C. not certain**.
-
-**Item 5.** Some drivers are teachers. All teachers are graduates. Some drivers are graduates.
-
-**Item 6.** All squares are rectangles. This shape is not a rectangle. This shape is a square.
-
-**Item 7.** Five runners finished a race. Dee finished first and Eve finished last. Ana finished ahead of Ben, and Cal finished behind Ben. Who finished third?
+**Item 3.** Five runners finished a race. Dee finished first and Eve finished last. Ana finished ahead of Ben, and Cal finished behind Ben. Who finished third?
 
 A. Ana &nbsp; B. Ben &nbsp; C. Cal &nbsp; D. Dee &nbsp; E. Eve
 
-**Item 8.** If it rains, the match is cancelled. The match was not cancelled. Which of these must be true?
+**Item 4.** If it rains, the match is cancelled. The match was cancelled. It rained.
 
-A. It did not rain. &nbsp; B. It rained. &nbsp; C. The match was played indoors. &nbsp; D. None of these must be true.
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: A (true).** The drivers who are teachers are also graduates, because every teacher is. So at least some drivers are graduates.
-
-**Item 6: B (false).** Every square is a rectangle, so a shape that is not a rectangle cannot be a square.
-
-**Item 7: B (Ben).** Dee takes 1st and Eve takes 5th, which leaves places 2, 3 and 4 for Ana, Ben and Cal. Ana is ahead of Ben and Cal is behind Ben, so the order is Ana 2nd, Ben 3rd, Cal 4th.
-
-**Item 8: A (it did not rain).** Rain would have caused a cancellation. There was no cancellation, so it cannot have rained. *Why not C:* nothing in the statements mentions indoor play. *Why not D:* the conclusion is forced by the rule, so one option must be true.
-
-</details>
-
-### Set 3
-
-For items 9 and 12, choose **A. true**, **B. false** or **C. not certain**.
-
-**Item 9.** If it rains, the match is cancelled. The match was cancelled. It rained.
-
-**Item 10.** Four people, P, Q, R and S, sit in a row of four seats. Q sits in the seat at the far left. R sits next to Q. S does not sit next to R. Who sits at the far right?
-
-A. P &nbsp; B. Q &nbsp; C. R &nbsp; D. S
-
-**Item 11.** In a group of 30 people, 18 like tea, 15 like coffee and 6 like both. How many like neither?
+**Item 5.** In a group of 30 people, 18 like tea, 15 like coffee and 6 like both. How many like neither?
 
 A. 0 &nbsp; B. 3 &nbsp; C. 6 &nbsp; D. 9 &nbsp; E. 12
 
-**Item 12.** Every employee in the sales team has a company car. Mark does not have a company car. Mark is not in the sales team.
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 9: C (not certain).** Rain is one thing that cancels the match, but the statements do not say it is the only one. The match could have been cancelled because of a strike or a waterlogged pitch. *Why not A:* this is the "affirming the result" trap in the patterns table.
+**Item 1: C (not certain).** The flowers that fade quickly might all be tulips. Nothing links them to roses. *Why not A:* "some flowers" may or may not include any roses.
 
-**Item 10: D (S).** Q is in seat 1, and R is next to Q, so R is in seat 2. S cannot be next to R, which rules out seat 3, so S is in seat 4. P takes seat 3. The person at the far right is S.
+**Item 2: B (false).** Tom is taller than Sam, who is taller than Lee, so Tom is taller than Lee. Lee cannot also be taller than Tom.
 
-**Item 11: B (3).** People who like at least one drink: 18 + 15 = 33, but the 6 who like both have been counted twice, so the real number is 33 − 6 = 27. That leaves 30 − 27 = 3 who like neither. *Why not A:* 0 comes from forgetting the double count, which seems to give 33 people in a group of 30.
+**Item 3: B (Ben).** Dee takes 1st and Eve takes 5th, which leaves places 2, 3 and 4 for Ana, Ben and Cal. Ana is ahead of Ben and Cal is behind Ben, so the order is Ana 2nd, Ben 3rd, Cal 4th.
 
-**Item 12: A (true).** If Mark were in the sales team, he would have a company car. He does not, so he cannot be in the team.
+**Item 4: C (not certain).** Rain is one thing that cancels the match, but the statements do not say it is the only one. The match could have been cancelled because of a strike or a waterlogged pitch. *Why not A:* this is the "affirming the result" trap in the patterns table.
+
+**Item 5: B (3).** People who like at least one drink: 18 + 15 = 33, but the 6 who like both have been counted twice, so the real number is 33 − 6 = 27. That leaves 30 − 27 = 3 who like neither. *Why not A:* 0 comes from forgetting the double count, which seems to give 33 people in a group of 30.
 
 </details>
 
+Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | B | B | A | B | B | A | C | D | B | A |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | B | B | C | B |
 
-- **11 to 12:** your logic is sound. Keep the puzzles quick by always placing fixed facts first.
-- **8 to 10:** check whether your misses were "not certain" items you marked true. That means you judged what could be true instead of what must be.
-- **7 or fewer:** learn the patterns table until you can recite it, then redo items 1 to 6 and 8, 9 and 12, which all follow one of its rows.
+- **5:** your logic is sound. Keep the puzzles quick by always placing fixed facts first.
+- **4:** check whether your misses were "not certain" items you marked true. That means you judged what could be true instead of what must be.
+- **3 or fewer:** learn the patterns table until you can recite it, then redo items 1, 2 and 4, which all follow one of its rows.
 
 ## Next step
 

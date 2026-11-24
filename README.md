@@ -1,13 +1,13 @@
 # Wonderlic Study Notes
 
-A free, complete study guide for the Wonderlic cognitive ability test, the timed part of Wonderlic Select: how the test works, a clear method for each of the six question types, 90 original practice items with full explanations, how scoring really works on today's version, and study plans for a week or a weekend. Written for job applicants who have just received a Wonderlic link and want to use the days before it expires well. Facts about the test come only from Wonderlic's own pages, each one [cited](docs/sources.md).
+A free, complete study guide for the Wonderlic cognitive ability test, the timed part of Wonderlic Select: how the test works, a clear method for each of the six question types, 42 original practice items with full explanations, how scoring really works on today's version, and study plans for a week or a weekend. Written for job applicants who have just received a Wonderlic link and want to use the days before it expires well. Facts about the test come only from Wonderlic's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), 50 questions in 12 minutes, or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), 50 questions in 12 minutes, or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak question types.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items of each type and tells you where to start.
-2. **Fix the weakest type first.** Open its guide below, learn the method and the traps, then do its 12 practice items.
+1. **Find your weak question types.** Take the [10-minute diagnostic](docs/diagnostic.md). It has two items of each type and tells you where to start.
+2. **Fix the weakest type first.** Open its guide below, learn the method and the traps, then do its 5 practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your link has already arrived.
 
 ## Quick facts
@@ -39,7 +39,7 @@ Sources: [Wonderlic Select candidate FAQ](https://wonderlic.com/blog/candidates/
 | Logic puzzles | True, false or not certain; orderings and seatings | 10 to 40 s | [Logic](docs/sections/logic.md) |
 | Spatial reasoning | Directions, rotations, folding, counting shapes | 10 to 20 s | [Spatial](docs/sections/spatial-reasoning.md) |
 
-Typical times are our study targets. Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Typical times are our study targets. Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -56,7 +56,7 @@ Typical times are our study targets. Every guide has the same parts: what it mea
   - [The NFL connection](docs/test-overview.md#the-nfl-connection)
   - [The one rule that runs through the whole test](docs/test-overview.md#the-one-rule-that-runs-through-the-whole-test)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [10-minute diagnostic](docs/diagnostic.md)
   - [Part A: Math and word problems](docs/diagnostic.md#part-a-math-and-word-problems)
   - [Part B: Number and letter series](docs/diagnostic.md#part-b-number-and-letter-series)
   - [Part C: Vocabulary and word meaning](docs/diagnostic.md#part-c-vocabulary-and-word-meaning)
@@ -202,7 +202,7 @@ Typical times are our study targets. Every guide has the same parts: what it mea
 
 ## About the practice items
 
-All 90 practice items (72 in the section guides and 18 in the diagnostic) are original, written for these notes. None are taken from the Wonderlic, from Wonderlic's materials or from any prep site. They follow the topics Wonderlic publishes so that the methods you learn here transfer to the real test.
+All 42 practice items (30 in the section guides and 12 in the diagnostic) are original, written for these notes. None are taken from the Wonderlic, from Wonderlic's materials or from any prep site. They follow the topics Wonderlic publishes so that the methods you learn here transfer to the real test.
 
 ## Contributing
 

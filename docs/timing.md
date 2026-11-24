@@ -54,7 +54,7 @@ If you are well behind at the 3-minute mark, you are probably solving easy items
 
 ## Practise against the clock
 
-1. Do each section guide's 12 items against the "fair target" time given there.
+1. Do each section guide's 5 items against the "fair target" time given there.
 2. Then do mixed timed runs of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), so you get used to switching between types.
 3. After each run, note your checkpoint positions and the slowest three questions. Those three are your pacing lesson for the day.
 

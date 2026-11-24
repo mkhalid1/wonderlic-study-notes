@@ -87,7 +87,7 @@ Yes. Wonderlic's [test-taker hub](https://wonderlic.com/test-takers/) has a free
 
 - The official 5-question practice on the [Wonderlic test-taker hub](https://wonderlic.com/test-takers/)
 - The [free 50-question Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), timed at 12 minutes
-- The 72 original practice items and the [diagnostic](diagnostic.md) in these notes
+- The 30 original practice items and the [diagnostic](diagnostic.md) in these notes
 
 ---
 

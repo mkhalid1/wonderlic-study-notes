@@ -52,110 +52,54 @@ As guidance: 8 to 12 seconds per item. Saying the linking sentence takes 2 or 3 
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Wonderlic or any publisher's materials. A fair target is 12 items in 2 minutes 30 seconds.
+These 5 items are original, written for these notes. They are not taken from the Wonderlic or any publisher's materials. A fair target is 5 items in 1 minute.
 
-### Set 1
-
-**Item 1.** GLOVE is to HAND as SOCK is to:
-
-A. head &nbsp; B. shoe &nbsp; C. foot &nbsp; D. leg &nbsp; E. knit
-
-**Item 2.** HOT is to COLD as TALL is to:
-
-A. high &nbsp; B. short &nbsp; C. wide &nbsp; D. big &nbsp; E. thin
-
-**Item 3.** FISH is to SCHOOL as WOLF is to:
+**Item 1.** FISH is to SCHOOL as WOLF is to:
 
 A. herd &nbsp; B. flock &nbsp; C. den &nbsp; D. pack &nbsp; E. pride
 
-**Item 4.** AUTHOR is to NOVEL as COMPOSER is to:
-
-A. symphony &nbsp; B. orchestra &nbsp; C. piano &nbsp; D. singer &nbsp; E. conductor
-
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: C (foot).** A glove is worn on a hand, and a sock is worn on a foot. *Why not B:* a sock goes with a shoe, but it is not worn on one. The sentence "worn on a ___" rules it out.
-
-**Item 2: B (short).** Hot and cold are opposites. The opposite of tall is short. *Why not E:* thin is the opposite of wide or fat, which describes a different dimension.
-
-**Item 3: D (pack).** A group of fish is a school, and a group of wolves is a pack. *Why not C:* a den is where wolves live, not what a group of them is called.
-
-**Item 4: A (symphony).** An author writes a novel, and a composer writes a symphony. *Why not B or E:* an orchestra and a conductor perform music. They do not write it.
-
-</details>
-
-### Set 2
-
-**Item 5.** MINUTE is to HOUR as MONTH is to:
-
-A. week &nbsp; B. day &nbsp; C. season &nbsp; D. calendar &nbsp; E. year
-
-**Item 6.** THERMOMETER is to TEMPERATURE as SCALE is to:
+**Item 2.** THERMOMETER is to TEMPERATURE as SCALE is to:
 
 A. weight &nbsp; B. height &nbsp; C. kitchen &nbsp; D. balance &nbsp; E. speed
 
-**Item 7.** CATERPILLAR is to BUTTERFLY as TADPOLE is to:
-
-A. pond &nbsp; B. fish &nbsp; C. frog &nbsp; D. egg &nbsp; E. lizard
-
-**Item 8.** PAGE is to BOOK as ___ is to TRAIN.
+**Item 3.** PAGE is to BOOK as ___ is to TRAIN.
 
 A. station &nbsp; B. carriage &nbsp; C. track &nbsp; D. driver &nbsp; E. ticket
 
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: E (year).** Minutes are the smaller units that make up an hour. Months are the smaller units that make up a year. *Why not A:* a week is smaller than a month, which reverses the direction. *Why not C:* a season is made of months, but the standard unit made of months is the year.
-
-**Item 6: A (weight).** A thermometer measures temperature, and a scale measures weight. *Why not D:* a balance is another tool for weighing, not the thing being measured.
-
-**Item 7: C (frog).** A caterpillar grows into a butterfly, and a tadpole grows into a frog. *Why not A:* tadpoles live in ponds, but the relationship is "grows into", not "lives in". *Why not D:* an egg comes before the tadpole, not after.
-
-**Item 8: B (carriage).** A book is made of many pages, and a train is made of several carriages. *Why not C or A:* a train runs on a track and stops at a station, but neither is part of the train.
-
-</details>
-
-### Set 3
-
-**Item 9.** BRAVE is to COWARDLY as GENEROUS is to:
-
-A. kind &nbsp; B. rich &nbsp; C. grateful &nbsp; D. stingy &nbsp; E. shy
-
-**Item 10.** Which pair has the same relationship as KNIFE : CUT?
+**Item 4.** Which pair has the same relationship as KNIFE : CUT?
 
 A. book : read &nbsp; B. chair : table &nbsp; C. shoe : lace &nbsp; D. bread : bake &nbsp; E. pen : write
 
-**Item 11.** DOCTOR is to HOSPITAL as TEACHER is to:
-
-A. school &nbsp; B. student &nbsp; C. lesson &nbsp; D. book &nbsp; E. principal
-
-**Item 12.** AC is to BD as EG is to:
+**Item 5.** AC is to BD as EG is to:
 
 A. FG &nbsp; B. FH &nbsp; C. GI &nbsp; D. EH &nbsp; E. HJ
 
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 9: D (stingy).** Brave and cowardly are opposites. The opposite of generous is stingy. *Why not A:* "kind" is close to a synonym of generous.
+**Item 1: D (pack).** A group of fish is a school, and a group of wolves is a pack. *Why not C:* a den is where wolves live, not what a group of them is called.
 
-**Item 10: E (pen : write).** A knife is a tool you use to cut, and a pen is a tool you use to write. *Why not A:* a book is the thing that gets read, not the tool you read with. *Why not D:* bread is the thing that gets baked.
+**Item 2: A (weight).** A thermometer measures temperature, and a scale measures weight. *Why not D:* a balance is another tool for weighing, not the thing being measured.
 
-**Item 11: A (school).** A doctor works in a hospital, and a teacher works in a school. *Why not B:* a student is the person a teacher works with, which matches doctor : patient, not doctor : hospital.
+**Item 3: B (carriage).** A book is made of many pages, and a train is made of several carriages. *Why not C or A:* a train runs on a track and stops at a station, but neither is part of the train.
 
-**Item 12: B (FH).** As positions, AC is 1 and 3, and BD is 2 and 4: each letter moves forward one place. EG is 5 and 7, so moving each letter forward one place gives 6 and 8, which is FH.
+**Item 4: E (pen : write).** A knife is a tool you use to cut, and a pen is a tool you use to write. *Why not A:* a book is the thing that gets read, not the tool you read with. *Why not D:* bread is the thing that gets baked.
+
+**Item 5: B (FH).** As positions, AC is 1 and 3, and BD is 2 and 4: each letter moves forward one place. EG is 5 and 7, so moving each letter forward one place gives 6 and 8, which is FH.
 
 </details>
 
+Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | B | D | A | E | A | C | B | D | E | A | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | D | A | B | E | B |
 
-- **11 to 12:** your linking sentences are tight. Keep using them under time pressure.
-- **8 to 10:** look at the "why not" lines for the items you missed. Most misses on analogies are a same-topic word chosen over the exact relationship.
-- **7 or fewer:** say the linking sentence out loud for every item until it becomes automatic, and learn the relationship table above.
+- **5:** your linking sentences are tight. Keep using them under time pressure.
+- **4:** look at the "why not" lines for the items you missed. Most misses on analogies are a same-topic word chosen over the exact relationship.
+- **3 or fewer:** say the linking sentence out loud for every item until it becomes automatic, and learn the relationship table above.
 
 ## Next step
 

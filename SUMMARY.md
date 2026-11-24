@@ -5,7 +5,7 @@
 ## Start here
 
 * [The Wonderlic test explained](docs/test-overview.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [10-minute diagnostic](docs/diagnostic.md)
 
 ## The six question types
 
