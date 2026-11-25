@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Number and letter series](number-series.md) · Next: [Analogies](analogies.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Number and letter series](number-series.md) · Next: [Analogies](analogies.md)
+<!-- /nav:top -->
 
 # Vocabulary and word meaning
 
@@ -103,4 +105,6 @@ Vocabulary items are quick, which makes them easy to rush. Practise keeping the 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Number and letter series](number-series.md) | Next: [Analogies](analogies.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Number and letter series](number-series.md) | Next: [Analogies](analogies.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

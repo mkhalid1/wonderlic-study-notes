@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Number and letter series](number-series.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Number and letter series](number-series.md)
+<!-- /nav:top -->
 
 # Math and word problems
 
@@ -110,4 +112,6 @@ Mental math feels very different with a 12-minute clock running. Try a full time
 
 ---
 
-<!-- nav:bottom -->← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Number and letter series](number-series.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Number and letter series](number-series.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

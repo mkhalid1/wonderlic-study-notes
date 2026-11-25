@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [10-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [10-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The Wonderlic test explained
 
@@ -97,4 +99,6 @@ Wonderlic offers a free official practice test on its [test-taker hub](https://w
 
 ---
 
-<!-- nav:bottom -->← Previous: [Home](../README.md) | Next: [10-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Home](../README.md) | Next: [10-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

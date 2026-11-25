@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How scoring works](scoring.md) · Next: [The untimed sections](untimed-sections.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How scoring works](scoring.md) · Next: [The untimed sections](untimed-sections.md)
+<!-- /nav:top -->
 
 # Timing and pacing
 
@@ -60,4 +62,6 @@ If you are well behind at the 3-minute mark, you are probably solving easy items
 
 ---
 
-<!-- nav:bottom -->← Previous: [How scoring works](scoring.md) | Next: [The untimed sections](untimed-sections.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How scoring works](scoring.md) | Next: [The untimed sections](untimed-sections.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

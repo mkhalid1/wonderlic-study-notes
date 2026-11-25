@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Analogies](analogies.md) · Next: [Spatial reasoning](spatial-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Analogies](analogies.md) · Next: [Spatial reasoning](spatial-reasoning.md)
+<!-- /nav:top -->
 
 # Logic puzzles
 
@@ -115,4 +117,6 @@ Logic items are only hard when you rush them. Practise the "must it?" question i
 
 ---
 
-<!-- nav:bottom -->← Previous: [Analogies](analogies.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Analogies](analogies.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

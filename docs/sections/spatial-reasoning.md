@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Logic puzzles](logic.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Logic puzzles](logic.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Spatial reasoning
 
@@ -99,4 +101,6 @@ Spatial items on screen may come with diagrams rather than descriptions. See how
 
 ---
 
-<!-- nav:bottom -->← Previous: [Logic puzzles](logic.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Logic puzzles](logic.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

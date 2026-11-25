@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Vocabulary and word meaning](vocabulary.md) · Next: [Logic puzzles](logic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Vocabulary and word meaning](vocabulary.md) · Next: [Logic puzzles](logic.md)
+<!-- /nav:top -->
 
 # Analogies
 
@@ -107,4 +109,6 @@ Analogies are quick once the linking sentence is a habit. Build that habit at re
 
 ---
 
-<!-- nav:bottom -->← Previous: [Vocabulary and word meaning](vocabulary.md) | Next: [Logic puzzles](logic.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Vocabulary and word meaning](vocabulary.md) | Next: [Logic puzzles](logic.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

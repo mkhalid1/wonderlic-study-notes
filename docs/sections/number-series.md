@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Math and word problems](math-word-problems.md) · Next: [Vocabulary and word meaning](vocabulary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Math and word problems](math-word-problems.md) · Next: [Vocabulary and word meaning](vocabulary.md)
+<!-- /nav:top -->
 
 # Number and letter series
 
@@ -110,4 +112,6 @@ Series reward a fixed routine, and a routine only sticks under time pressure. Tr
 
 ---
 
-<!-- nav:bottom -->← Previous: [Math and word problems](math-word-problems.md) | Next: [Vocabulary and word meaning](vocabulary.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Math and word problems](math-word-problems.md) | Next: [Vocabulary and word meaning](vocabulary.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

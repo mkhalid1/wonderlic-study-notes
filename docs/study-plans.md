@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The untimed sections](untimed-sections.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The untimed sections](untimed-sections.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -62,4 +64,6 @@ If you only have one evening, do day 1 blocks 1, 2 and 4, then sit the test the 
 
 ---
 
-<!-- nav:bottom -->← Previous: [The untimed sections](untimed-sections.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The untimed sections](untimed-sections.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
