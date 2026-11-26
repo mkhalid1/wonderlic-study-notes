@@ -94,7 +94,7 @@ A. 690 &nbsp; B. 735 &nbsp; C. 750 &nbsp; D. 900 &nbsp; E. 1,035
 
 </details>
 
-Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ## Score yourself
 
@@ -108,7 +108,7 @@ Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 q
 
 ## Next step
 
-Mental math feels very different with a 12-minute clock running. Try a full timed run with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), then come back to the traps list for any math items you missed.
+Mental math feels very different with a 12-minute clock running. Try a full timed run with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic), then come back to the traps list for any math items you missed.
 
 ---
 

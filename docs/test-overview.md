@@ -95,7 +95,7 @@ For a job applicant this history matters only in one way: it is why so much of w
 
 ## Practise the real format
 
-Wonderlic offers a free official practice test on its [test-taker hub](https://wonderlic.com/test-takers/): 5 questions in 72 seconds, drawn from a larger pool so they change each time, with no sign-up. It is a good feel for the pace but too short to show your strengths. For a full 50-question, 12-minute run, try the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Wonderlic offers a free official practice test on its [test-taker hub](https://wonderlic.com/test-takers/): 5 questions in 72 seconds, drawn from a larger pool so they change each time, with no sign-up. It is a good feel for the pace but too short to show your strengths. For a full 50-question, 12-minute run, try the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ---
 

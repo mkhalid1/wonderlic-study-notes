@@ -8,7 +8,7 @@ Twelve original items, two of each question type, to show you where to start. Se
 
 These items are original, written for these notes. They are not taken from the Wonderlic or any publisher's materials.
 
-If you already know the question types, skip this and take the [free full-length Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic) instead. A full 50-question run gives a better picture of pacing.
+If you already know the question types, skip this and take the [free full-length Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic) instead. A full 50-question run gives a better picture of pacing.
 
 ## Part A: Math and word problems
 

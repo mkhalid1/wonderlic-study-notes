@@ -87,7 +87,7 @@ A. Many people came to the meeting. &nbsp; B. The meeting was difficult. &nbsp; 
 
 </details>
 
-Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ## Score yourself
 
@@ -101,7 +101,7 @@ Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 q
 
 ## Next step
 
-Vocabulary items are quick, which makes them easy to rush. Practise keeping the instruction word in mind under time pressure with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Vocabulary items are quick, which makes them easy to rush. Practise keeping the instruction word in mind under time pressure with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ---
 

@@ -99,7 +99,7 @@ A. 0 &nbsp; B. 3 &nbsp; C. 6 &nbsp; D. 9 &nbsp; E. 12
 
 </details>
 
-Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ## Score yourself
 
@@ -113,7 +113,7 @@ Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 q
 
 ## Next step
 
-Logic items are only hard when you rush them. Practise the "must it?" question inside a timed run with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Logic items are only hard when you rush them. Practise the "must it?" question inside a timed run with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ---
 

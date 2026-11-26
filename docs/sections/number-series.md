@@ -94,7 +94,7 @@ A. 6 &nbsp; B. 12 &nbsp; C. 20 &nbsp; D. 48 &nbsp; E. 96
 
 </details>
 
-Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 questions, scored by section: [Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ## Score yourself
 
@@ -108,7 +108,7 @@ Want more? The free timed Wonderlic practice test on PrepClubs has the full 50 q
 
 ## Next step
 
-Series reward a fixed routine, and a routine only sticks under time pressure. Try them inside a full 12-minute run with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic).
+Series reward a fixed routine, and a routine only sticks under time pressure. Try them inside a full 12-minute run with the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic).
 
 ---
 

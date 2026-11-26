@@ -16,7 +16,7 @@ Remember the clock on the test link: Wonderlic says links generally stay active 
 | 2 | Math | Read the [math guide](sections/math-word-problems.md) and do its 5 items without a calculator. Spend 10 extra minutes on percentages and fractions in your head. |
 | 3 | Series and logic | Read the [series](sections/number-series.md) and [logic](sections/logic.md) guides. Do both sets. Learn the series rule table and the logic patterns table. |
 | 4 | Words | Read the [vocabulary](sections/vocabulary.md) and [analogies](sections/analogies.md) guides. Do both sets. Note every word you could not define. |
-| 5 | First timed run | Read the [spatial guide](sections/spatial-reasoning.md) and do its set. Then take a full timed test of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic). Read the [timing guide](timing.md). |
+| 5 | First timed run | Read the [spatial guide](sections/spatial-reasoning.md) and do its set. Then take a full timed test of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic). Read the [timing guide](timing.md). |
 | 6 | Fix the weakest type | Go back to your weakest type's traps list. Redo its items without the answers. Find at least 20 fresh items of that type and do them against the clock. |
 | 7 | Second timed run and rest | Take a second full timed test in the morning. Compare your checkpoints and score with day 5. Try the official 5-question practice on the [Wonderlic test-taker hub](https://wonderlic.com/test-takers/). Read the [test-day checklist](test-day-checklist.md). Stop studying by early evening. |
 
@@ -41,7 +41,7 @@ For when the link has arrived and you want to sit the test soon.
 | 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the "How the questions look" and "Traps" parts of all six section guides. Skip the rest for now. |
 | 3 | 30 min | Do the practice items for your two weakest types. Read every explanation, including the ones you got right. |
-| 4 | 15 min | Take a full timed practice test of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic). |
+| 4 | 15 min | Take a full timed practice test of 50 questions in 12 minutes, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic). |
 | 5 | 15 min | Review every miss with the three questions above. |
 
 ### Day 2: sit the test

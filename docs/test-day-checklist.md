@@ -49,7 +49,7 @@ The Wonderlic Select assessment is usually taken online, on your own device, at 
 
 ## Last practice before the real one
 
-A single timed run the day before, at the same time of day as your planned test, is the best rehearsal. Use the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic) for 50 questions in 12 minutes, or the official 5-question practice on the [Wonderlic test-taker hub](https://wonderlic.com/test-takers/) as a warm-up.
+A single timed run the day before, at the same time of day as your planned test, is the best rehearsal. Use the [free Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic) for 50 questions in 12 minutes, or the official 5-question practice on the [Wonderlic test-taker hub](https://wonderlic.com/test-takers/) as a warm-up.
 
 ---
 

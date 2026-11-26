@@ -50,7 +50,7 @@ Since you will not see a number on the real test, the useful question is what to
 
 - **On a 50-question, 12-minute practice test scored by number correct,** Wonderlic's classic average of around 20 is your reference point. Scoring in the mid to high 20s or above in timed practice puts you clearly above it, with a margin for nerves.
 - **Watch accuracy as well as reach.** Reaching more questions only helps if most of the extra answers are right. The early questions are the easier ones, so careless misses there are the cheapest marks to lose. In practice, note both how many you answered and how many you got right.
-- **Keep your practice honest:** no calculator, no pausing, one sitting. The [free PrepClubs Wonderlic practice test](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic) is timed like the real cognitive section.
+- **Keep your practice honest:** no calculator, no pausing, one sitting. The [free PrepClubs Wonderlic practice test](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic) is timed like the real cognitive section.
 
 ## Why practice scores vary
 

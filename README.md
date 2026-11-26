@@ -2,7 +2,7 @@
 
 A free, complete study guide for the Wonderlic cognitive ability test, the timed part of Wonderlic Select: how the test works, a clear method for each of the six question types, 42 original practice items with full explanations, how scoring really works on today's version, and study plans for a week or a weekend. Written for job applicants who have just received a Wonderlic link and want to use the days before it expires well. Facts about the test come only from Wonderlic's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), 50 questions in 12 minutes, or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Wonderlic practice test on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic), 50 questions in 12 minutes, or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -197,7 +197,7 @@ Typical times are our study targets. Every guide has the same parts: what it mea
 - **No calculator.** The real test does not allow one, so practise without it from the start.
 - **Read every explanation,** including for items you got right. Most explanations say why the nearest wrong answer is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write the rule you broke. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=wonderlic), teaches the pace.
+- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/wonderlic?utm_source=github&utm_medium=referral&utm_campaign=vmh9rf&utm_content=wonderlic), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items
